@@ -1,3 +1,9 @@
+Here it will extract the details from vehicle registration certificate(RC)
+
+     It can extract 
+     
+       REG NO , Engine NO , VIN NO and Dates
+
 ----------Required Packages--------
 
 	cv2	
